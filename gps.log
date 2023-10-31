@@ -1,0 +1,380 @@
+[?1049h[1;40r(B[m[4l[?7h[?25l[H[2J[1;81H[H[2J[26d{"class":"VERSION","release":"3.25","rev":"3.25","proto_major":3,"proto_minor":15}[H(0[0mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk(B
+(0[0mx(B Time[2;18Hn/a[2;38H( 0)   (0[0mx(B
+(0[0mx(B Latitude[3;20Hn/a[3;45H(0[0mx(B
+(0[0mx(B Longitude[4;20Hn/a[4;45H(0[0mx(B
+(0[0mx(B Alt (HAE, MSL)[5;26Hn/a,[5;38Hn/a ft (0[0mx(B
+(0[0mx(B Speed[6;20Hn/a[6;41Hmph (0[0mx(B
+(0[0mx(B Track (true, var)[27Gn/a,   n/a    deg (0[0mx(B
+(0[0mx(B Climb[8;20Hn/a[8;38Hft/min (0[0mx(B
+(0[0mx(B Status[9;19HNO FIX (0 secs)[9;45H(0[0mx(B
+(0[0mx(B Long Err  (XDOP, EPX)   n/a ,  n/a[10;45H(0[0mx(B
+(0[0mx(B Lat Err   (YDOP, EPY)   n/a ,  n/a[11;45H(0[0mx(B
+(0[0mx(B Alt Err   (VDOP, EPV)   n/a ,  n/a[12;45H(0[0mx(B
+(0[0mx(B 2D Err    (HDOP, CEP)   n/a ,  n/a[13;45H(0[0mx(B
+(0[0mx(B 3D Err    (PDOP, SEP)   n/a ,  n/a[14;45H(0[0mx(B
+(0[0mx(B Time Err  (TDOP)[15;27Hn/a[15;45H(0[0mx(B
+(0[0mx(B Geo Err   (GDOP)[16;27Hn/a[16;45H(0[0mx(B
+(0[0mx(B Speed Err (EPS)[17;31Hn/a[17;45H(0[0mx(B
+(0[0mx(B Track Err (EPD)[18;27Hn/a[18;45H(0[0mx(B
+(0[0mx(B Time offset[19;45H(0[0mx(B
+(0[0mx(B Grid Square[20;27Hn/a[20;45H(0[0mx(B
+(0[0mx(B ECEF X, VX[21;27Hn/a    n/a[21;45H(0[0mx(B
+(0[0mx(B ECEF Y, VY[22;27Hn/a    n/a[22;45H(0[0mx(B
+(0[0mx(B ECEF Z, VZ[23;27Hn/a    n/a[23;45H(0[0mx(B
+(0[0mmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj(B[A(0[0m(B[1;46H[27d{"class":"DEVICES","devices":[{"class":"DEVICE","path":"/dev/tty.usbmodem1401","driver":"u-blox","subtype":"SW 2.01 (75331),HW 00080000","subtype1":"PR[28;1HOTVER 15.00,GPS;SBAS;GLO;BDS;QZSS","activated":"2023-10-31T03:45:25.013Z","flags":1,"native":1,"bps":9600,"parity":"N","stopbits":1,"cycle":1.00,"mincy[29;1Hcle":0.02}]}[23;43H[1;46H[30d{"class":"WATCH","enable":true,"json":true,"nmea":false,"raw":0,"scaled":false,"timing":false,"split24":false,"pps":false}[23;43H[1;46H[25d.0,"el":9.0,"prRes":3.9,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[26;1Hed":false,"health":1},{"PRN":7,"gnssid":0,"svid":7,"az":132.0,"el":14.0,"prRes":13.2,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":13,"gnssid":0,"s[27;1Hvid":13,"az":244.0,"el":47.0,"prRes":24.4,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":14,"gnssid":0,"svid":14,"az":50.0,"el":50.0,"prRes":5.0,"qu[28;1Hal":0,"ss":0.0,"used":false,"health":1},{"PRN":15,"gnssid":0,"svid":15,"az":285.0,"el":25.0,"prRes":28.5,"qual":0,"ss":0.0,"used":false,"health":1},{"P[29;1HRN":17,"gnssid":0,"svid":17,"az":56.0,"el":78.0,"prRes":5.6,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":19,"gnssid":0,"svid":19,"az":206.0,"el":6[30;1H9.0,"prRes":20.6,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":21,"gnssid":0,"svid":21,"az":32.0,"el":1.0,"prRes":3.2,"qual":0,"ss":0.0,"used":fals[31;1He,"health":1},{"PRN":22,"gnssid":0,"svid":22,"az":20.0,"el":61.0,"prRes":2.0,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":24,"gnssid":0,"svid":24,[32;1H"az":315.0,"el":15.0,"prRes":31.5,"qual":1,"ss":0.0,"used":false,"health":1},{"PRN":30,"gnssid":0,"svid":30,"az":131.0,"el":43.0,"prRes":13.1,"qual":0,[33;1H"ss":0.0,"used":false,"health":1},{"PRN":33,"gnssid":1,"svid":120,"az":82.0,"el":-20.0,"prRes":8.2,"qual":1,"ss":0.0,"used":false},{"PRN":37,"gnssid":1[34;1H,"svid":124,"az":55.0,"el":-46.0,"prRes":5.5,"qual":1,"ss":0.0,"used":false},{"PRN":39,"gnssid":1,"svid":126,"az":51.0,"el":-48.0,"prRes":5.1,"qual":1,[35;1H"ss":0.0,"used":false},{"PRN":68,"gnssid":6,"svid":4,"az":245.0,"el":18.0,"prRes":24.5,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":69,"gnssid":6,[36;1H"svid":5,"az":296.0,"el":20.0,"prRes":29.6,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":77,"gnssid":6,"svid":13,"az":88.0,"el":26.0,"prRes":8.8,"q[37;1Hual":0,"ss":0.0,"used":false,"health":1},{"PRN":78,"gnssid":6,"svid":14,"az":12.0,"el":55.0,"prRes":1.2,"qual":0,"ss":0.0,"used":false,"health":1},{"PR[38;1HN":79,"gnssid":6,"svid":15,"az":313.0,"el":23.0,"prRes":31.3,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":81,"gnssid":6,"svid":17,"az":176.0,"el":[39;1H28.0,"prRes":17.6,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":88,"gnssid":6,"svid":24,"az":106.0,"el":61.0,"prRes":10.6,"qual":0,"ss":0.0,"used":[40;1Hfalse,"health":1}]}[9;27H1[23;43H[1;46H(0[0mlqqqqqqqqqqqqqqqq(BSeen 22/Used  0(0[0mqqk(B[2;46H(0[0mx(BGNSS  S PRN  Elev  Azim   SNR Use(0[0mx(B[3;46H(0[0mx(BGP  2     2   9.0  39.0   0.0  N (0[0mx(B[4;46H(0[0mx(BGP  6     6  14.0 166.0   0.0  N (0[0mx(B[5;46H(0[0mx(BGP  7     7  14.0 132.0   0.0  N (0[0mx(B[6;46H(0[0mx(BGP 13    13  47.0 244.0   0.0  N (0[0mx(B[7;46H(0[0mx(BGP 14    14  50.0  50.0   0.0  N (0[0mx(B[8;46H(0[0mx(BGP 15    15  25.0 285.0   0.0  N (0[0mx(B[9;46H(0[0mx(BGP 17    17  78.0  56.0   0.0  N (0[0mx(B[10;46H(0[0mx(BGP 19    19  69.0 206.0   0.0  N (0[0mx(B[11;46H(0[0mx(BGP 21    21   1.0  32.0   0.0  N (0[0mx(B[12;46H(0[0mx(BGP 22    22  61.0  20.0   0.0  N (0[0mx(B[13;46H(0[0mx(BGP 24    24  15.0 315.0   0.0  N (0[0mx(B[14;46H(0[0mx(BGP 30    30  43.0 131.0   0.0  N (0[0mx(B[15;46H(0[0mx(BSB120    33 -20.0  82.0   0.0  N (0[0mx(B[16;46H(0[0mx(BSB124    37 -46.0  55.0   0.0  N (0[0mx(B[17;46H(0[0mx(BSB126    39 -48.0  51.0   0.0  N (0[0mx(B[18;46H(0[0mx(BGL  4    68  18.0 245.0   0.0  N (0[0mx(B[19;46H(0[0mx(BGL  5    69  20.0 296.0   0.0  N (0[0mx(B[20;46H(0[0mx(BGL 13    77  26.0  88.0   0.0  N (0[0mx(B[21;46H(0[0mx(BGL 14    78  55.0  12.0   0.0  N (0[0mx(B[22;46H(0[0mx(BGL 15    79  23.0 313.0   0.0  N (0[0mx(B[23;46H(0[0mx(BGL 17    81  28.0 176.0   0.0  N (0[0mx(B[24;46H(0[0mm(BMore...(0[0mqqqqqqqqqqqqqqqqqqqqqqqqqqj(B[24;54H(0[0m(B
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:26.000Z","leapseconds":18,"ept":0.005}[2;16H2023-10-31T03:45:26.000Z (18)[19;27H0.167327000     s
+
+
+
+[24;54H
+[L.0,"el":9.0,"prRes":3.9,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:27.000Z","leapseconds":18,"ept":0.005}[2;34H7[19;29H014159[23;43H[24;54H
+[L.0,"el":9.0,"prRes":3.9,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;27H2[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:28.000Z","leapseconds":18,"ept":0.005}[2;34H8[19;29H176226[23;43H[24;54H
+[L.0,"el":9.0,"prRes":3.9,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;27H3[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:29.000Z","leapseconds":18,"ept":0.005}[2;34H9[19;29H01278[23;43H[24;54H
+[L.0,"el":9.0,"prRes":3.9,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;27H4[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:30.000Z","leapseconds":18,"ept":0.005}[2;33H30[19;29H1622[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;27H5[23;43H[3;61H8.0  38[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:31.000Z","leapseconds":18,"ept":0.005}[2;34H1[19;29H014325[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;27H6[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:32.000Z","leapseconds":18,"ept":0.005}[2;34H2[19;29H161758[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;27H7[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:33.000Z","leapseconds":18,"ept":0.005}[2;34H3[19;29H012539[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[26;59H3[26;69H3[26;84H3[40;20H[9;27H8[23;43H[5;61H3.0 133[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:34.000Z","leapseconds":18,"ept":0.005}[2;34H4[19;29H172414[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;27H9[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:35.000Z","leapseconds":18,"ept":0.005}[2;34H5[19;29H01393[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;27H10 secs)[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:36.000Z","leapseconds":18,"ept":0.005}[2;34H6[19;29H174037[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[27;123H1[147G1[40;20H[9;28H1[23;43H[7;67H1[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:37.000Z","leapseconds":18,"ept":0.005}[2;34H7[19;29H013690[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H2[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:38.000Z","leapseconds":18,"ept":0.005}[2;34H8[19;29H172068[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[29;35H5[29;59H5[40;20H[9;28H3[23;43H[9;67H5[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:39.000Z","leapseconds":18,"ept":0.005}[2;34H9[19;29H013211[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[29;151H7[30;1H0[40;20H[9;28H4[23;43H[10;60H70[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:40.000Z","leapseconds":18,"ept":0.005}[2;33H40[19;29H173459[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H5[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:41.000Z","leapseconds":18,"ept":0.005}[2;34H1[19;29H013340[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H6[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:42.000Z","leapseconds":18,"ept":0.005}[2;34H2[19;29H173818[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H7[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:43.000Z","leapseconds":18,"ept":0.005}[2;34H3[19;29H013787[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H8[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:44.000Z","leapseconds":18,"ept":0.005}[2;34H4[19;29H173789[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H9[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:45.000Z","leapseconds":18,"ept":0.005}[2;34H5[19;29H012924[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;27H20[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:46.000Z","leapseconds":18,"ept":0.005}[2;34H6[19;29H162669[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H1[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:47.000Z","leapseconds":18,"ept":0.005}[2;34H7[19;29H013568[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H2[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:48.000Z","leapseconds":18,"ept":0.005}[2;34H8[19;29H174889[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H3[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:49.000Z","leapseconds":18,"ept":0.005}[2;34H9[19;29H013565[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H4[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:50.000Z","leapseconds":18,"ept":0.005}[2;33H50[19;29H162464[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H5[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:51.000Z","leapseconds":18,"ept":0.005}[2;34H1[19;29H013681[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H6[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:52.000Z","leapseconds":18,"ept":0.005}[2;34H2[19;29H172129[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[35;61H4[35;86H4[40;20H[9;28H7[23;43H[18;67H4[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:53.000Z","leapseconds":18,"ept":0.005}[2;34H3[19;29H014628[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[32;42H0[40;20H[9;28H8[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:54.000Z","leapseconds":18,"ept":0.005}[2;34H4[19;29H163495[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H9[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:55.000Z","leapseconds":18,"ept":0.005}[2;34H5[19;29H014144[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;27H30[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:56.000Z","leapseconds":18,"ept":0.005}[2;34H6[19;29H163182[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H1[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:57.000Z","leapseconds":18,"ept":0.005}[2;34H7[19;29H014471[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H2[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:58.000Z","leapseconds":18,"ept":0.005}[2;34H8[19;29H162717[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H3[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:45:59.000Z","leapseconds":18,"ept":0.005}[2;34H9[19;29H014294[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H4[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:00.000Z","leapseconds":18,"ept":0.005}[2;31H6:00[19;29H163085[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H5[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:01.000Z","leapseconds":18,"ept":0.005}[2;34H1[19;29H013836[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[39;100H5[39;125H5[40;20H[9;28H6[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:02.000Z","leapseconds":18,"ept":0.005}[2;34H2[19;29H162754[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":14.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H7[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:03.000Z","leapseconds":18,"ept":0.005}[2;34H3[19;29H011055[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H8[23;43H[4;61H5[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:04.000Z","leapseconds":18,"ept":0.005}[2;34H4[19;29H174018[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H9[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:05.000Z","leapseconds":18,"ept":0.005}[2;34H5[19;29H013906[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;27H40[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:06.000Z","leapseconds":18,"ept":0.005}[2;34H6[19;29H162633[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H1[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:07.000Z","leapseconds":18,"ept":0.005}[2;34H7[19;29H013682[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[27;16H3[27;41H3[27;132H49[37;112H1[40;20H[9;28H2[23;43H[6;67H3[7;60H49[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:08.000Z","leapseconds":18,"ept":0.005}[2;34H8[19;29H172890[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H3[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:09.000Z","leapseconds":18,"ept":0.005}[2;34H9[19;29H012725[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H4[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:10.000Z","leapseconds":18,"ept":0.005}[2;33H10[19;29H173133[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H5[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:11.000Z","leapseconds":18,"ept":0.005}[2;34H1[19;29H013784[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[30;98H1[30;107H0[30;121H1[40;20H[9;28H6[23;43H[11;61H0.0  31[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:12.000Z","leapseconds":18,"ept":0.005}[2;34H2[19;29H173483[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H7[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:13.000Z","leapseconds":18,"ept":0.005}[2;34H3[19;29H013932[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H8[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:14.000Z","leapseconds":18,"ept":0.005}[2;34H4[19;29H171244[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H9[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:15.000Z","leapseconds":18,"ept":0.005}[2;34H5[19;29H013676[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;27H50[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:16.000Z","leapseconds":18,"ept":0.005}[2;34H6[19;29H172983[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H1[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:17.000Z","leapseconds":18,"ept":0.005}[2;34H7[19;29H014019[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H2[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:18.000Z","leapseconds":18,"ept":0.005}[2;34H8[19;29H172170[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H3[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:19.000Z","leapseconds":18,"ept":0.005}[2;34H9[19;29H013079[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H4[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:20.000Z","leapseconds":18,"ept":0.005}[2;33H20[19;29H162896[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H5[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:21.000Z","leapseconds":18,"ept":0.005}[2;34H1[19;29H012765[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H6[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:22.000Z","leapseconds":18,"ept":0.005}[2;34H2[19;29H172892[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H7[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:23.000Z","leapseconds":18,"ept":0.005}[2;34H3[19;29H013334[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[37;6H1[40;20H[9;28H8[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:24.000Z","leapseconds":18,"ept":0.005}[2;34H4[19;29H174067[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H9[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:25.000Z","leapseconds":18,"ept":0.005}[2;34H5[19;29H012462[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;27H60[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:26.000Z","leapseconds":18,"ept":0.005}[2;34H6[19;29H174747[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H1[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:27.000Z","leapseconds":18,"ept":0.005}[2;34H7[19;29H014286[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[37;6H0[40;20H[9;28H2[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:28.000Z","leapseconds":18,"ept":0.005}[2;34H8[19;29H162509[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[37;79H3[37;103H3[40;20H[9;28H3[23;43H[21;67H3[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:29.000Z","leapseconds":18,"ept":0.005}[2;34H9[19;29H01418[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[38;45H4[40;20H[9;28H4[23;43H[22;61H4[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:30.000Z","leapseconds":18,"ept":0.005}[2;33H30[19;29H163532[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[39;2H9[40;20H[9;28H5[23;43H[23;61H9[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:31.000Z","leapseconds":18,"ept":0.005}[2;34H1[19;29H013901[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[37;112H0[40;20H[9;28H6[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:32.000Z","leapseconds":18,"ept":0.005}[2;34H2[19;29H173184[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[37;6H1[37;112H1[38;69H1[39;110H2[40;20H[9;28H7[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:33.000Z","leapseconds":18,"ept":0.005}[2;34H3[19;29H01439[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H8[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:34.000Z","leapseconds":18,"ept":0.005}[2;34H4[19;29H175993[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H9[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:35.000Z","leapseconds":18,"ept":0.005}[2;34H5[19;29H014569[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;27H70[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:36.000Z","leapseconds":18,"ept":0.005}[2;34H6[19;29H163133[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H1[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:37.000Z","leapseconds":18,"ept":0.005}[2;34H7[19;29H01374[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H2[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:38.000Z","leapseconds":18,"ept":0.005}[2;34H8[19;29H163471[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H3[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:39.000Z","leapseconds":18,"ept":0.005}[2;34H9[19;29H013064[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[28;79H4[28;104H4[40;20H[9;28H4[23;43H[8;67H4[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:40.000Z","leapseconds":18,"ept":0.005}[2;33H40[19;29H161782[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[29;35H4[29;59H4[37;6H0[37;112H0[40;20H[9;28H5[23;43H[9;67H4[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:41.000Z","leapseconds":18,"ept":0.005}[2;34H1[19;29H014033[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[26;93H1[38;69H0[40;20H[9;28H6[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:42.000Z","leapseconds":18,"ept":0.005}[2;34H2[19;29H174336[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[31;52H1[31;76H1[40;20H[9;28H7[23;43H[12;67H1[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:43.000Z","leapseconds":18,"ept":0.005}[2;34H3[19;29H01261[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[32;18H6[37;6H1[38;69H1[40;20H[9;28H8[23;43H[13;61H6[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:44.000Z","leapseconds":18,"ept":0.005}[2;34H4[19;29H162773[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H9[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:45.000Z","leapseconds":18,"ept":0.005}[2;34H5[19;29H013871[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;27H80[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:46.000Z","leapseconds":18,"ept":0.005}[2;34H6[19;29H163349[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[26;93H0[40;20H[9;28H1[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:47.000Z","leapseconds":18,"ept":0.005}[2;34H7[19;29H013717[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H2[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:48.000Z","leapseconds":18,"ept":0.005}[2;34H8[19;29H163186[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H3[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:49.000Z","leapseconds":18,"ept":0.005}[2;34H9[19;29H012667[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H4[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:50.000Z","leapseconds":18,"ept":0.005}[2;33H50[19;29H173686[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H5[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:51.000Z","leapseconds":18,"ept":0.005}[2;34H1[19;29H012767[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H6[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:52.000Z","leapseconds":18,"ept":0.005}[2;34H2[19;29H173095[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H7[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:53.000Z","leapseconds":18,"ept":0.005}[2;34H3[19;29H013838[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H8[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:54.000Z","leapseconds":18,"ept":0.005}[2;34H4[19;29H172649[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;20H[9;28H9[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:55.000Z","leapseconds":18,"ept":0.005}[2;34H5[19;29H013762[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[36;17H5[36;42H5[40;20H[9;27H90[23;43H[19;67H5[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:56.000Z","leapseconds":18,"ept":0.005}[2;34H6[19;29H174136[23;43H[24;54H7[25;39r8
+M[1;40r[25;1H.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[36;95H1[36;115H7,"az":24.0,"el":-[146G2.4[37;50H7[37;71H3[78G88[37;88H26[37;101H8.8
+[5G8[38;26H4[33G13.0,"el":55.0,"prRes":1.3,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":79,"gnssid":6,"svid":15,"az":313.0,"el":24[39;1H.0,"prRes":31.3,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":81,"gnssid":6,"svid":17,"az":176.0,"el":29.0,"prRes":17.6,"qual":0,"ss":0.0,"used":fa[40;1Hlse,"health":1},{"PRN":88,"gnssid":6,"svid":24,"az":105.0,"el":62.0,"prRes":10.5,"qual":0,"ss":0.0,"used":false,"health":1}]}[9;28H1[23;43H[1;69H3[20;50H 7    71 -[66G24[21;51H3    77  26.0  88[22;51H4    78  55.0  [23;51H5    79  24.0 313[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:57.000Z","leapseconds":18,"ept":0.005}[2;34H7[19;29H013459[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;126H[9;28H2[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:58.000Z","leapseconds":18,"ept":0.005}[2;34H8[19;29H163226[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;126H[9;28H3[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:46:59.000Z","leapseconds":18,"ept":0.005}[2;34H9[19;29H013387[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[37;79H9[37;89H5[37;103H9[40;126H[9;28H4[23;43H[21;61H5.0  89[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:00.000Z","leapseconds":18,"ept":0.005}[2;31H7:00[19;29H173538[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[38;141H4[39;15H4[40;126H[9;28H5[23;43H[23;67H4[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:01.000Z","leapseconds":18,"ept":0.005}[2;34H1[19;29H013412[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;126H[9;28H6[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:02.000Z","leapseconds":18,"ept":0.005}[2;34H2[19;29H173226[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;126H[9;28H7[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:03.000Z","leapseconds":18,"ept":0.005}[2;34H3[19;29H013448[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;55H4[40;80H4[40;126H[9;28H8[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:04.000Z","leapseconds":18,"ept":0.005}[2;34H4[19;29H163760[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":166.0,"el":15.0,"prRes":16.6,"qual":0,"ss":0.0,"us[40;126H[9;28H9[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:05.000Z","leapseconds":18,"ept":0.005}[2;34H5[19;29H012667[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;126H[9;27H100 secs)[23;43H[4;67H5[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:06.000Z","leapseconds":18,"ept":0.005}[2;34H6[19;29H172973[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;126H[9;29H1[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:07.000Z","leapseconds":18,"ept":0.005}[2;34H7[19;29H013766[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;126H[9;29H2[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:08.000Z","leapseconds":18,"ept":0.005}[2;34H8[19;29H17345[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;126H[9;29H3[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:09.000Z","leapseconds":18,"ept":0.005}[2;34H9[19;29H012532[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;126H[9;29H4[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:10.000Z","leapseconds":18,"ept":0.005}[2;33H10[19;29H174039[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;126H[9;29H5[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:11.000Z","leapseconds":18,"ept":0.005}[2;34H1[19;29H013456[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[29;35H3[29;59H3[40;126H[9;29H6[23;43H[9;67H3[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:12.000Z","leapseconds":18,"ept":0.005}[2;34H2[19;29H171578[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;126H[9;29H7[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:13.000Z","leapseconds":18,"ept":0.005}[2;34H3[19;29H013742[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[31;62H0[40;126H[9;29H8[23;43H[12;61H0[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:14.000Z","leapseconds":18,"ept":0.005}[2;34H4[19;29H1736[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;126H[9;29H9[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:15.000Z","leapseconds":18,"ept":0.005}[2;34H5[19;29H012383[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;126H[9;28H10[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:16.000Z","leapseconds":18,"ept":0.005}[2;34H6[19;29H172008[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;126H[9;29H1[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:17.000Z","leapseconds":18,"ept":0.005}[2;34H7[19;29H013671[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[32;116H2[32;126H2[32;141H2[40;126H[9;29H2[23;43H[14;61H2.0 132[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:18.000Z","leapseconds":18,"ept":0.005}[2;34H8[19;29H162693[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;126H[9;29H3[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:19.000Z","leapseconds":18,"ept":0.005}[2;34H9[19;29H013532[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;126H[9;29H4[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:20.000Z","leapseconds":18,"ept":0.005}[2;33H20[19;29H173908[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;126H[9;29H5[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:21.000Z","leapseconds":18,"ept":0.005}[2;34H1[19;29H013550[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;126H[9;29H6[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:22.000Z","leapseconds":18,"ept":0.005}[2;34H2[19;29H173506[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;126H[9;29H7[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:23.000Z","leapseconds":18,"ept":0.005}[2;34H3[19;29H012151[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;126H[9;29H8[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:24.000Z","leapseconds":18,"ept":0.005}[2;34H4[19;29H173482[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;126H[9;29H9[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:25.000Z","leapseconds":18,"ept":0.005}[2;34H5[19;29H014385[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;126H[9;28H20[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:26.000Z","leapseconds":18,"ept":0.005}[2;34H6[19;29H17391[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;126H[9;29H1[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:27.000Z","leapseconds":18,"ept":0.005}[2;34H7[19;29H014027[23;43H[24;54H7[25;38r8
+M[1;40r[25;1H.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[36;95H7[36;115H13,"az":89.0,"el":25[146G8.9
+[6G0[37;50H8[37;71H4[78G13[37;88H5[37;101H1.3
+[5G9[38;26H5[33G314.0,"el":24.0,"prRes":31.4,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":81,"gnssid":6,"svid":17,"az":176.0,"el":[39;1H29.0,"prRes":17.6,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":88,"gnssid":6,"svid":24,"az":104.0,"el":62.0,"prRes":10.4,"qual":0,"ss":0.0,"used":[40;1Hfalse,"health":1}]}[K[9;29H2[23;43H[1;69H2[20;50H13    77  25.0  89[21;51H4    78  55.0  13[22;51H5    79  24.0 314[23;51H7    81  29.0 176[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:28.000Z","leapseconds":18,"ept":0.005}[2;34H8[19;29H162341[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[40;20H[9;29H3[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:29.000Z","leapseconds":18,"ept":0.005}[2;34H9[19;29H014277[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[40;20H[9;29H4[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:30.000Z","leapseconds":18,"ept":0.005}[2;33H30[19;29H173222[23;43H[24;54H
+.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"u
+ed":false,"health":1},{"PRN":7,"gnssid":0,"svid":7,"az":133.0,"el":13.0,"prRes":13.3,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":8,"gnssid":0,"sv[27;1Hid":8,"az":45.0,"el":-21.0,"prRes":4.5,"qual":1,"ss":0.0,"used":false,"health":1},{"PRN":13,"gnssid":0,"svid":13,"az":243.0,"el":47.0,"prRes":24.3,"qua[28;1Hl":0,"ss":0.0,"used":false,"health":1},{"PRN":14,"gnssid":0,"svid":14,"az":51.0,"el":49.0,"prRes":5.1,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN"[29;1H:15,"gnssid":0,"svid":15,"az":284.0,"el":25.0,"prRes":28.4,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":17,"gnssid":0,"svid":17,"az":53.0,"el":78.[30;1H0,"prRes":5.3,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":19,"gnssid":0,"svid":19,"az":206.0,"el":70.0,"prRes":20.6,"qual":0,"ss":0.0,"used":fals[31;1He,"health":1},{"PRN":21,"gnssid":0,"svid":21,"az":31.0,"el":0.0,"prRes":3.1,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":22,"gnssid":0,"svid":22,"[32;1Haz":21.0,"el":60.0,"prRes":2.1,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":24,"gnssid":0,"svid":24,"az":315.0,"el":16.0,"prRes":31.5,"qual":0,"ss[33;1H":0.0,"used":false,"health":1},{"PRN":30,"gnssid":0,"svid":30,"az":132.0,"el":42.0,"prRes":13.2,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":33,"g[34;1Hnssid":1,"svid":120,"az":82.0,"el":-20.0,"prRes":8.2,"qual":1,"ss":0.0,"used":false},{"PRN":37,"gnssid":1,"svid":124,"az":55.0,"el":-46.0,"prRes":5.5,"[35;1Hqual":1,"ss":0.0,"used":false},{"PRN":39,"gnssid":1,"svid":126,"az":51.0,"el":-48.0,"prRes":5.1,"qual":1,"ss":0.0,"used":false},{"PRN":68,"gnssid":6,"s[36;1Hvid":4,"az":244.0,"el":18.0,"prRes":24.4,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":69,"gnssid":6,"svid":5,"az":295.0,"el":20.0,"prRes":29.5,"qu[37;1Hal":0,"ss":0.0,"used":false,"health":1},{"PRN":77,"gnssid":6,"svid":13,"az":89.0,"el":25.0,"prRes":8.9,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN[38;1H":78,"gnssid":6,"svid":14,"az":14.0,"el":55.0,"prRes":1.4,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":79,"gnssid":6,"svid":15,"az":314.0,"el":24.[39;1H0,"prRes":31.4,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":81,"gnssid":6,"svid":17,"az":176.0,"el":29.0,"prRes":17.6,"qual":0,"ss":0.0,"used":fal[40;1Hse,"health":1},{"PRN":88,"gnssid":6,"svid":24,"az":104.0,"el":62.0,"prRes":10.4,"qual":0,"ss":0.0,"used":false,"health":1}]}[9;29H5[23;43H[1;69H3[6;50H 8     8 -21.0  45[7;51H3    13  47.0 243[8;51H4    14  49.0  51[9;51H5    15  25.0 284[10;51H7    17  78.0  53[11;50H19    19  70.0 206[12;51H1    21   0.0  3[13;51H2    22  60.0  21[14;50H24    24  16.0 315[15;47HGP 3[57G0  42.0 13[16;51H0    33 -20.0  82[17;51H4    37 -46.0  55[18;47HSB126    39 -48.0  51[19;51H4    68  18.0 244[20;50H 5    69  20.0 295[21;51H3    77  25.0  89[22;51H4    78  55.0  [23;51H5    79  24.0 314[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:31.000Z","leapseconds":18,"ept":0.005}[2;34H1[19;29H014797[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[40;125H[9;29H6[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:32.000Z","leapseconds":18,"ept":0.005}[2;34H2[19;29H164400[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[40;125H[9;29H7[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:33.000Z","leapseconds":18,"ept":0.005}[2;34H3[19;29H014264[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[40;125H[9;29H8[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:34.000Z","leapseconds":18,"ept":0.005}[2;34H4[19;29H172399[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[40;54H3[40;79H3[40;125H[9;29H9[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:35.000Z","leapseconds":18,"ept":0.005}[2;34H5[19;29H014401[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[40;125H[9;28H30[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:36.000Z","leapseconds":18,"ept":0.005}[2;34H6[19;29H162577[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[40;125H[9;29H1[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:37.000Z","leapseconds":18,"ept":0.005}[2;34H7[19;29H012974[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[40;125H[9;29H2[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:38.000Z","leapseconds":18,"ept":0.005}[2;34H8[19;29H172039[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[40;125H[9;29H3[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:39.000Z","leapseconds":18,"ept":0.005}[2;34H9[19;29H012728[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[40;125H[9;29H4[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:40.000Z","leapseconds":18,"ept":0.005}[2;33H40[19;29H163037[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[27;121H2[146G2[28;77H2[28;101H2[40;125H[9;29H5[23;43H[7;67H2
+2[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:41.000Z","leapseconds":18,"ept":0.005}[2;34H1[19;29H011722[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[40;125H[9;29H6[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:42.000Z","leapseconds":18,"ept":0.005}[2;34H2[19;29H173857[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[29;150H7[40;125H[9;29H7[23;43H[10;61H7[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:43.000Z","leapseconds":18,"ept":0.005}[2;34H3[19;29H013182[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[30;96H7[30;106H1[30;121H7[40;125H[9;29H8[23;43H[11;61H1.0 207[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:44.000Z","leapseconds":18,"ept":0.005}[2;34H4[19;29H17325[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[32;6H2[32;30H2[40;125H[9;29H9[23;43H[13;67H2[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:45.000Z","leapseconds":18,"ept":0.005}[2;34H5[19;29H013111[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[40;125H[9;28H40[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:46.000Z","leapseconds":18,"ept":0.005}[2;34H6[19;29H162999[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[40;125H[9;29H1[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:47.000Z","leapseconds":18,"ept":0.005}[2;34H7[19;29H01310[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[40;125H[9;29H2[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:48.000Z","leapseconds":18,"ept":0.005}[2;34H8[19;29H173922[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[40;125H[9;29H3[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:49.000Z","leapseconds":18,"ept":0.005}[2;34H9[19;29H013597[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[40;125H[9;29H4[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:50.000Z","leapseconds":18,"ept":0.005}[2;33H50[19;29H162975[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":1,"ss":0.0,"us[40;125H[9;29H5[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:51.000Z","leapseconds":18,"ept":0.005}[2;34H1[19;29H013730[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;125H[9;29H6[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:52.000Z","leapseconds":18,"ept":0.005}[2;34H2[19;29H171287[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;125H[9;29H7[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:53.000Z","leapseconds":18,"ept":0.005}[2;34H3[19;29H012209[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;125H[9;29H8[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:54.000Z","leapseconds":18,"ept":0.005}[2;34H4[19;29H172635[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;125H[9;29H9[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:55.000Z","leapseconds":18,"ept":0.005}[2;34H5[19;29H013440[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;125H[9;28H50[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:56.000Z","leapseconds":18,"ept":0.005}[2;34H6[19;29H171772[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[36;25H7[40;125H[9;29H1[23;43H[19;61H7[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:57.000Z","leapseconds":18,"ept":0.005}[2;34H7[19;29H013181[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;125H[9;29H2[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:58.000Z","leapseconds":18,"ept":0.005}[2;34H8[19;29H173406[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;125H[9;29H3[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:47:59.000Z","leapseconds":18,"ept":0.005}[2;34H9[19;29H014130[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;125H[9;29H4[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:48:00.000Z","leapseconds":18,"ept":0.005}[2;31H8:00[19;29H176142[23;43H[24;54H
+.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[26;1Hed":false,"health":1},{"PRN":7,"gnssid":0,"svid":7,"az":133.0,"el":13.0,"prRes":13.3,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":13,"gnssid":0,"s[27;1Hvid":13,"az":242.0,"el":47.0,"prRes":24.2,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":14,"gnssid":0,"svid":14,"az":52.0,"el":49.0,"prRes":5.2,"qu[28;1Hal":0,"ss":0.0,"used":false,"health":1},{"PRN":15,"gnssid":0,"svid":15,"az":284.0,"el":25.0,"prRes":28.4,"qual":0,"ss":0.0,"used":false,"health":1},{"P[29;1HRN":17,"gnssid":0,"svid":17,"az":53.0,"el":77.0,"prRes":5.3,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":19,"gnssid":0,"svid":19,"az":207.0,"el":7[30;1H1.0,"prRes":20.7,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":21,"gnssid":0,"svid":21,"az":31.0,"el":0.0,"prRes":3.1,"qual":0,"ss":0.0,"used":fals[31;1He,"health":1},{"PRN":22,"gnssid":0,"svid":22,"az":22.0,"el":60.0,"prRes":2.2,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":24,"gnssid":0,"svid":24,[32;2Haz":315.0,"el":16.0,"prRes":31.5,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":30,"gnssid":0,"svid":30,"az":132.0,"el":42.0,"prRes":13.2,"qual":0,[33;1H"ss":0.0,"used":false,"health":1},{"PRN":33,"gnssid":1,"svid":120,"az":82.0,"el":-20.0,"prRes":8.2,"qual":1,"ss":0.0,"used":false},{"PRN":37,"gnssid":1[34;1H,"svid":124,"az":55.0,"el":-46.0,"prRes":5.5,"qual":1,"ss":0.0,"used":false},{"PRN":39,"gnssid":1,"svid":126,"az":51.0,"el":-48.0,"prRes":5.1,"qual":1,[35;1H"ss":0.0,"used":false},{"PRN":68,"gnssid":6,"svid":4,"az":244.0,"el":17.0,"prRes":24.4,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":69,"gnssid":6,[36;1H"svid":5,"az":295.0,"el":20.0,"prRes":29.5,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":77,"gnssid":6,"svid":13,"az":89.0,"el":25.0,"prRes":8.9,"q[37;1Hual":0,"ss":0.0,"used":false,"health":1},{"PRN":78,"gnssid":6,"svid":14,"az":14.0,"el":55.0,"prRes":1.4,"qual":0,"ss":0.0,"used":false,"health":1},{"PR[38;1HN":79,"gnssid":6,"svid":15,"az":314.0,"el":24.0,"prRes":31.4,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":81,"gnssid":6,"svid":17,"az":176.0,"el":[39;1H29.0,"prRes":17.6,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":88,"gnssid":6,"svid":24,"az":103.0,"el":62.0,"prRes":10.3,"qual":0,"ss":0.0,"used":[40;1Hfalse,"health":1}]}[K[9;29H5[23;43H[1;69H2[6;50H13    13  47.0 242[7;51H4    14  49.0  5[8;51H5    15  25.0 284[9;51H7    17  77.0  53[10;51H9    19  71.0 207[11;50H21    21   0.0  31[12;51H2    22  60.0  22[13;51H4    24  16.0 315[14;50H30    30  42.0 132[15;47HSB12[57G3 -20.0  8[16;51H4    37 -46.0  55[17;51H6    39 -48.0  51[18;47HGL  4    68  17.0 244[19;51H5    69  20.0 295[20;50H13    77  25.0  89[21;51H4    78  55.0  14[22;51H5    79  24.0 3[23;51H7    81  29.0 176[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:48:01.000Z","leapseconds":18,"ept":0.005}[2;34H1[19;29H014526[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;20H[9;29H6[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:48:02.000Z","leapseconds":18,"ept":0.005}[2;34H2[19;29H182849[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;20H[9;29H7[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:48:03.000Z","leapseconds":18,"ept":0.005}[2;34H3[19;29H013030[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[39;1H30[40;20H[9;29H8[23;43H[23;60H30[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:48:04.000Z","leapseconds":18,"ept":0.005}[2;34H4[19;29H172573[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;20H[9;29H9[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:48:05.000Z","leapseconds":18,"ept":0.005}[2;34H5[19;29H01416[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;20H[9;28H60[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:48:06.000Z","leapseconds":18,"ept":0.005}[2;34H6[19;29H176709[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;20H[9;29H1[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:48:07.000Z","leapseconds":18,"ept":0.005}[2;34H7[19;29H013837[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;20H[9;29H2[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:48:08.000Z","leapseconds":18,"ept":0.005}[2;34H8[19;29H173368[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[26;69H2[40;20H[9;29H3[23;43H[5;61H2[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:48:09.000Z","leapseconds":18,"ept":0.005}[2;34H9[19;29H01248[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;20H[9;29H4[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:48:10.000Z","leapseconds":18,"ept":0.005}[2;33H10[19;29H172262[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;20H[9;29H5[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:48:11.000Z","leapseconds":18,"ept":0.005}[2;34H1[19;29H012594[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;20H[9;29H6[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:48:12.000Z","leapseconds":18,"ept":0.005}[2;34H2[19;29H173910[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;20H[9;29H7[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:48:13.000Z","leapseconds":18,"ept":0.005}[2;34H3[19;29H012851[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[29;35H2[29;59H2[40;20H[9;29H8[23;43H[9;67H2[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:48:14.000Z","leapseconds":18,"ept":0.005}[2;34H4[19;29H161122[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;20H[9;29H9[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:48:15.000Z","leapseconds":18,"ept":0.005}[2;34H5[19;29H012596[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;20H[9;28H70[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:48:16.000Z","leapseconds":18,"ept":0.005}[2;34H6[19;29H171872[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;20H[9;29H1[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:48:17.000Z","leapseconds":18,"ept":0.005}[2;34H7[19;29H013729[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;20H[9;29H2[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:48:18.000Z","leapseconds":18,"ept":0.005}[2;34H8[19;29H17157[23;43H[24;54H
+[L.0,"el":8.0,"prRes":3.8,"qual":0,"ss":0.0,"used":false,"health":1},{"PRN":6,"gnssid":0,"svid":6,"az":165.0,"el":15.0,"prRes":16.5,"qual":0,"ss":0.0,"us[40;20H[9;29H3[23;43H[24;54H
+[M[40d{"class":"TPV","device":"/dev/tty.usbmodem1401","mode":1,"time":"2023-10-31T03:48:19.000Z","leapseconds":18,"ept":0.005}[2;34H9[19;29H013347[23;43H[24;54H
